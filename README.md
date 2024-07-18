@@ -5,10 +5,16 @@
 ## Hakkımda
 
 Merhaba,
+
+
 Ben Yunus Dündar, yazılımcıyım.
+
+
 Bilgisayara olan tutkum ve sürekli
 öğrenme arzum, beni sürekli olarak gelişmeye teşvik
 ediyor.
+
+
 Teknolojiyi insanların yaşamlarını kolaylaştırmak için bir
 araç olarak görüyorum ve bu doğrultuda kendimi her geçen gün
 geliştirmeye devam ediyorum.
@@ -27,12 +33,12 @@ Yunus Dündar
 ## Deneyim
 
 - **Şirket/Kurum:** [OtoKiosk] - [Stajyer]
-  - 24/06/24 - -
+  - 24-06-24 / -
 
-<!-- ## Eğitim
+## Eğitim
 
-- **Üniversite:** [Üniversite Adı] - [Bölüm]
-  - Mezuniyet Yılı: [Yıl] -->
+- **Lise:** [Zeytinburnu Mesleki ve Teknik Anadolu Lisesi] - [Bilişim Teknolojileri]
+  - 2021 / -
 
 <!--## Projeler
 

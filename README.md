@@ -13,8 +13,6 @@ Ben Yunus Dündar, yazılımcıyım.
 Bilgisayara olan tutkum ve sürekli
 öğrenme arzum, beni sürekli olarak gelişmeye teşvik
 ediyor.
-
-
 Teknolojiyi insanların yaşamlarını kolaylaştırmak için bir
 araç olarak görüyorum ve bu doğrultuda kendimi her geçen gün
 geliştirmeye devam ediyorum.
@@ -48,5 +46,5 @@ Yunus Dündar
 
 ## İletişim
 
-- [E-posta](mail.yunusdndr@gmail.com)
+- E-posta: mail.yunusdndr@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/yunusdndr/)

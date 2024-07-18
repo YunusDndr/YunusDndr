@@ -1,6 +1,6 @@
 # Yunus Dündar
 
-![Profil Resmi](https://w7.pngwing.com/pngs/972/320/png-transparent-speech-balloon-comics-illustration-cartoon-explosion-effects-border-black-and-yellow-speech-balloon-template-border-cartoon-character-white-thumbnail.png)
+![Profil Resmi](https://github.com/YunusDndr/YunusDndr/blob/main/a.png)
 
 ## Hakkımda
 
@@ -26,21 +26,21 @@ Yunus Dündar
 
 ## Deneyim
 
-- **Şirket/Kurum:** [OtoK] - [Pozisyon]
-  - Açıklama: Buraya deneyim ve görevleriniz hakkında kısa bilgi ekleyin.
+- **Şirket/Kurum:** [OtoKiosk] - [Stajyer]
+  - 24/06/24 - -
 
-## Eğitim
+<!-- ## Eğitim
 
 - **Üniversite:** [Üniversite Adı] - [Bölüm]
-  - Mezuniyet Yılı: [Yıl]
+  - Mezuniyet Yılı: [Yıl] -->
 
-## Projeler
+<!--## Projeler
 
 - **Proje Adı:** Kısa proje açıklaması
   - Kullanılan Teknolojiler: Teknolojileri buraya yazın.
-  - GitHub Linki: [GitHub Linki]
+  - GitHub Linki: [GitHub Linki]-->
 
 ## İletişim
 
-- E-posta: potur@example.com
-- LinkedIn: [LinkedIn Profil Linki]
+- E-posta: mail.yunusdndr@gmail.com
+- LinkedIn: [https://www.linkedin.com/in/yunusdndr/]

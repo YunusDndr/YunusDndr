@@ -31,7 +31,7 @@ Yunus Dündar
 ## Deneyim
 
 - **Şirket/Kurum:** [OtoKiosk] - [Stajyer]
-  - 24-06-24 / -
+  - 24/06/24 - -
 
 ## Eğitim
 

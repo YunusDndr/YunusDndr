@@ -46,5 +46,5 @@ Yunus Dündar
 
 ## İletişim
 
-- E-posta: mail.yunusdndr@gmail.com
+- mail.yunusdndr@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/yunusdndr/)

@@ -25,12 +25,12 @@ Yunus Dündar
 
 ## Beceriler
 
-- **Programlama Dilleri:** Python, C#, React-native
-- **Web Geliştirme:** HTML/CSS
+- **Programlama Dilleri:** Python, C#, React-Native
+- **Web Geliştirme:** HTML/CSS, PHP, JS
 
 ## Deneyim
 
-- **Şirket/Kurum:** [OtoKiosk] - [Stajyer]
+- **Şirket/Kurum:** [OtoKiosk]
   - 24/06/24 - -
 
 ## Eğitim

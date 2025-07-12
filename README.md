@@ -25,8 +25,7 @@ Yunus Dündar
 
 ## Beceriler
 
-- **Programlama Dilleri:** Python, C#, React-Native
-- **Web Geliştirme:** HTML/CSS, PHP, JS
+- **Programlama Dilleri:** Python, C#, React-Native, HTML/CSS, PHP, JS, React, Electron, Node
 
 ## Deneyim
 
@@ -36,7 +35,7 @@ Yunus Dündar
 ## Eğitim
 
 - **Lise:** [Zeytinburnu Mesleki ve Teknik Anadolu Lisesi] - [Bilişim Teknolojileri]
-  - 2021 / -
+  - 2021 / 2025
 
 <!--## Projeler
 

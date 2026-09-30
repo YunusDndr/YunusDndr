@@ -1,49 +1,34 @@
-# Yunus Dündar
+<div align="center">
+  <img src="https://github.com/YunusDndr/YunusDndr/blob/main/a.png" width="130" style="border-radius: 50%; border: 3px solid #2F80ED;" alt="Yunus Dündar">
+  
+  <br>
 
-![Profil Resmi](https://github.com/YunusDndr/YunusDndr/blob/main/a.png)
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=500&lines=Jr.+Full+Stack+Developer;" alt="Typing" />
+  </a>
 
-## Hakkımda
+  <div align="center">
+    <a href="https://www.linkedin.com/in/yunusdndr/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="mailto:mail.yunusdndr@gmail.com">
+      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    </a>
+  </div>
+</div>
 
-Merhaba,
+<br>
 
+## 👨‍💻 Hakkımda
 
-Ben Yunus Dündar, yazılımcıyım.
+**OtoKiosk A.Ş.**'de Jr. Full Stack Developer olarak yazılım çözümleri üretiyor ve **İstanbul Aydın Üniversitesi**'nde Bilgisayar Programcılığı eğitimime devam ediyorum. Salt web geliştirmenin ötesine geçerek donanım ve yazılımı birleştiren sistemler kurguluyorum. Modern veritabanı mimarileri tasarlamak, backend altyapıları kurmak ve otomasyon süreçleri geliştirmek ana odak noktalarım. 
 
+## 🛠 Teknoloji & Araçlar
 
-Bilgisayara olan tutkum ve sürekli
-öğrenme arzum, beni sürekli olarak gelişmeye teşvik
-ediyor.
-Teknolojiyi insanların yaşamlarını kolaylaştırmak için bir
-araç olarak görüyorum ve bu doğrultuda kendimi her geçen gün
-geliştirmeye devam ediyorum.
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,react,html,css,php,cs,python,nodejs,nestjs,postgres,docker,git,arduino,sql&perline=7" alt="Yunus's Tech Stack" />
+  </a>
+</div>
 
-
-Saygılarımla,
-
-
-Yunus Dündar
-
-## Beceriler
-
-- **Programlama Dilleri:** Python, C#, React-Native, HTML/CSS, PHP, JS, React, Electron, Node
-
-## Deneyim
-
-- **Şirket/Kurum:** [OtoKiosk]
-  - 24/06/24 - -
-
-## Eğitim
-
-- **Lise:** [Zeytinburnu Mesleki ve Teknik Anadolu Lisesi] - [Bilişim Teknolojileri]
-  - 2021 / 2025
-
-<!--## Projeler
-
-- **Proje Adı:** Kısa proje açıklaması
-  - Kullanılan Teknolojiler: Teknolojileri buraya yazın.
-  - GitHub Linki: [GitHub Linki]-->
-
-## İletişim
-
-- mail.yunusdndr@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/yunusdndr/)
+<br>

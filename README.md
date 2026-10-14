@@ -21,7 +21,7 @@
 
 ## 👨‍💻 Hakkımda
 
-**OtoKiosk A.Ş.**'de Jr. Full Stack Developer olarak yazılım çözümleri üretiyor ve **İstanbul Aydın Üniversitesi**'nde Bilgisayar Programcılığı eğitimime devam ediyorum. Salt web geliştirmenin ötesine geçerek donanım ve yazılımı birleştiren sistemler kurguluyorum. Modern veritabanı mimarileri tasarlamak, backend altyapıları kurmak ve otomasyon süreçleri geliştirmek ana odak noktalarım. 
+Jr. Full Stack Developer olarak yazılım çözümleri üretiyor ve **İstanbul Aydın Üniversitesi**'nde Bilgisayar Programcılığı eğitimime devam ediyorum. Salt web geliştirmenin ötesine geçerek donanım ve yazılımı birleştiren sistemler kurguluyorum. Modern veritabanı mimarileri tasarlamak, backend altyapıları kurmak ve otomasyon süreçleri geliştirmek ana odak noktalarım. 
 
 ## 🛠 Teknoloji & Araçlar
 
